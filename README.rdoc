@@ -1,0 +1,20 @@
+= Redmine New Issue Status plugin >= Redmine 3.0
+
+Redmine plugin to create new issues with default status configured for particular tracker.
+
+== Features
+
+* New issues are created only in one default status independently what was choosen while the new issue is created.
+
+== Install
+
+1. Follow Redmine {plugin installation instructions}[http://www.redmine.org/projects/redmine/wiki/Plugins#Installing-a-plugin].
+
+== Uninstall
+
+1. Follow Redmine {plugin uninstall instructions}[http://www.redmine.org/projects/redmine/wiki/Plugins#Uninstalling-a-plugin].
+
+=== Changelog
+
+*3.0 (2016-05-30)*
+- Initial release.
