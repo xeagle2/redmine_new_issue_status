@@ -4,7 +4,7 @@ Redmine plugin to create new issues with default status configured for particula
 
 ### Features
 
-* New issues are created only in one default status independently what was choosen while the new issue is created.
+* New issues are created only in one default status independently what was chosen while the new issue is created.
 
 **Screenshots**
 
