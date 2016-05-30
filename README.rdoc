@@ -6,7 +6,7 @@ Redmine plugin to create new issues with default status configured for particula
 
 * New issues are created only in one default status independently what was choosen while the new issue is created.
 
-[screenshot_01.png]
+[https://github.com/xeagle2/redmine_new_issue_status/screenshot_01.png]
 
 == Install
 
